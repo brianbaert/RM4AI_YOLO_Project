@@ -1,2 +1,4 @@
 # RM4AI_YOLO_Project
-YOLO research proposal - car detection
+YOLO research project
+- Data augmentation
+- YOLOv8 finetuning
